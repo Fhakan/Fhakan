@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fhakan
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning xamarin
+- 🌱 I’m currently learning What I need 
 - 💞️ I’m looking to collaborate on New people
 - 📫 How to reach me fehimhakan@gmail.com
 
