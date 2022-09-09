@@ -3,7 +3,7 @@
 ---
 
 - 👋 Hi, I’m @Fhakan
-- 👀 I’m interested in learning
+- 👀 I am interested in learning information that will make me better
 - 🌱 I’m currently learning What I need about Testing
 - 💞️ I’m looking to collaborate on New people
 - 📫 How to reach me fehimhakan@gmail.com
