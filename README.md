@@ -54,8 +54,6 @@ Currently I am using java as a programming language , selenium as an automation 
 
 
 
-
-
 <!---
 Fhakan/Fhakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
